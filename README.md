@@ -2,7 +2,7 @@
 API Restful - O aplicativo que desenvolveremos é uma startup de recrutamento.
 Neste desafio, foram abordados os seguintes tópicos:
 
-Expresso;
+Express;
 Rotas e método http;
 Params;
 Controladores;
@@ -26,8 +26,7 @@ $ cd api
 $ npm install
 
 # run the migration and seed
-$ npm migrate
-$ npm seed
+$ npm run migrate
 
 # Run the application in development mode
 $ npm run dev
