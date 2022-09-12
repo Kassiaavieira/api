@@ -1,5 +1,5 @@
 💻 Sobre
-API Restful - O aplicativo que desenvolveremos é uma startup de recrutamento.
+API Restful - Desenvolveremos uma startup de recrutamento.
 Neste desafio, foram abordados os seguintes tópicos:
 
 Express;
