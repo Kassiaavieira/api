@@ -1,6 +1,8 @@
 💻 Sobre
 Startup de recrutamento.
 
+Tecnologias utilizadas:
+
 Express;
 Rotas e método http;
 Params;
