@@ -1,6 +1,5 @@
 💻 Sobre
-API Restful - Desenvolveremos uma startup de recrutamento.
-Neste desafio, foram abordados os seguintes tópicos:
+Startup de recrutamento.
 
 Express;
 Rotas e método http;
